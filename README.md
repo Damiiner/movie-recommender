@@ -3,9 +3,17 @@
 A full-stack recommendation engine built on the MovieLens dataset. It combines
 popularity, content-based, and collaborative filtering, served through a FastAPI
 backend with a React frontend and SQLite storage for new users.
+**Personalized recommendations for a new user (after rating movies):**
 
 ![Recommendations](docs/recommendations.png)
+
+**Search and similar movies:**
+
 ![Search and similar movies](docs/search-similar.png)
+
+**MovieLens user (read-only view):**
+
+![MovieLens user](docs/old-user.png)
 
 ## Features
 
