@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+backend/artifacts/
+backend/app.db
+data/
+frontend/node_modules/
+frontend/dist/
